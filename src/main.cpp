@@ -225,7 +225,6 @@ void buy_food(){
     cin >> foodname;
     bool found= false;
     for(int i= 0; i< food_data.size(); i++){
-        cout << food_data[i].foodname;
         if(food_data[i].foodname == foodname){
             found = true;
             choose_quantity(foodname);
