@@ -1,8 +1,6 @@
 # Misi2_Modul2_Programming_13521054
 Second Mission of Programming Second Module
 
-Penyelesaian Permainan Kartu 24 dengan Algoritma Brute Force
-
 ## Table of Contents
 * [General Info](#general-information)
 * [How To Run](#how-to-run)
